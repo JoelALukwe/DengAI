@@ -99,7 +99,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License.  
 
 ## **Contact**  
-For inquiries or collaboration, please contact [your-email@example.com](mailto:your-email@example.com).  
+For inquiries or collaboration, please contact [alukwe7@outlook.com](mailto:alukwe7@outlook.com).  
 
 ## **Acknowledgments**  
 - Kaggle for the dataset  
