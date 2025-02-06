@@ -1,12 +1,3 @@
-
-## **Proposed Repository Name:**  
-**DengAI: Predicting Dengue Outbreaks Using Weather Data**  
-*(A play on "Dengue" and "AI" to reflect the use of Artificial Intelligence in dengue prediction)*
-
----
-
-## **README.md**
-
 # **DengAI: Predicting Dengue Outbreaks Using Weather Data**  
 
 ## **Overview**  
